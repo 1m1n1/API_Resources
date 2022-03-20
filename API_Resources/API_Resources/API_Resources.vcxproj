@@ -22,7 +22,7 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{4ea7a65e-e775-49a2-bb81-23d2a63c71bc}</ProjectGuid>
+    <ProjectGuid>{943c4847-8338-479f-ab2d-316fc7249ea4}</ProjectGuid>
     <RootNamespace>APIResources</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
